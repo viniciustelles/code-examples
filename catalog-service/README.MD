@@ -2,6 +2,14 @@
 
 This API is to test what`s new on the new versoin of spring boot 3.
 
+| METHOD | URL             | ACTION |
+| ------ |-----------------| ------ |
+| POST | /api/items      | Create new item |
+| GET | /api/items      | Find all items|
+| PUT | /api/items/{id} | Update item|
+| GET | /api/items/{id} | Find item | 
+| DELETE | /api/items/{id} | Remove item |
+
 ## 💻 Tecnologies
 
 - Spring Boot 3 (Spring 6)
