@@ -1,4 +1,4 @@
-### Examples of Code Repository
+### Examples repository
 
 This repo contains example projects which show how to use different (not only) Java technologies. 
 
